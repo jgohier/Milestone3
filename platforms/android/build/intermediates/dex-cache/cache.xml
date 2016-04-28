@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jerem\OneDrive\Documents\GitHub\milestone3-app\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2b31e5086febc1365db3021bdee96449b1c93376">
+        <dex dex="C:\Users\jerem\OneDrive\Documents\GitHub\milestone3-app\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_7610c43836c7cd53012fce43da944a1051b1149e.jar" />
+    </item>
+
+</items>
